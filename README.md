@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adenubi Habeeblah ⚡</h1>
-<h3 align="center">Software Engineer | Anime Lover | Gamer | Builder of Cool Stuff</h3>
+<h3 align="center">Software Engineer | Anime Lover | Gamer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=habeebolamide&label=Profile%20views&color=0e75b6&style=flat" alt="habeebolamide" />
-  <a href="https://twitter.com/demscript" target="blank">
-    <img src="https://img.shields.io/twitter/follow/demscript?logo=twitter&style=flat-square" alt="demscript" />
+  <a href="https://twitter.com/HabeebOlamide06" target="blank">
+    <img src="https://img.shields.io/twitter/follow/HabeebOlamide06?logo=twitter&style=flat-square" alt="HabeebOlamide" />
   </a>
 </p>
 
