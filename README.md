@@ -30,3 +30,5 @@ Got a question, idea, or just want to talk tech? Whether it’s about full-stack
 
 
 <h3 align="left">Connect with me:</h3>
+
+[![][![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HabeebOlamide06) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/habeeblamide)
